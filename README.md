@@ -1,0 +1,3 @@
+- 👋 Hi, I’m faisal_alotibi
+- 👀 I’m interested_in_coding
+- 🌱 I’m currently_learning_c++
